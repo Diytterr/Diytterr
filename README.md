@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @Diytterr
-- 👀 I’m interested in Java script
+In English: 
 
-Diytterr/Diytterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Dyther
+- I am french
+- I am 15 
+- I’m interested in Java script, Pyton, html and CSS
+- I am just learning code!
+
+En Français:
+
+👋 Bonjour, je suis @Dyther
+- Je suis français
+- J'ai 15 ans
+- Je suis interressé par Java script, Pyton, html and CSS
+- Je suis juste en train d'apprendre les codes!
